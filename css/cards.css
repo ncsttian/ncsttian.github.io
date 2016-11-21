@@ -1,0 +1,57 @@
+.firstCard
+{
+	position: relative;
+	top: 20px;
+	left: 9%;
+	width: 80%;
+    margin: 15px;
+	border: 1px solid #CCCCCC;
+	border-radius: 15px;
+	box-shadow: 0 0 5px #CCCCCC;
+	background-color:#FFFFFF;
+	height: 240px;
+	overflow: hidden;
+
+}
+.secondCard
+{
+	position: relative;
+	top: 20px;
+	left: 9%;
+	width: 80%;
+    margin: 15px;
+	border: 1px solid #CCCCCC;
+	border-radius: 15px;
+	box-shadow: 0 0 5px #CCCCCC;
+	background-color:#FFFFFF;
+	height: 240px;
+	overflow: hidden;
+
+}
+.thirdCard
+{
+	position: relative;
+	top: 20px;
+	left: 9%;
+	width: 80%;
+    margin: 15px;
+	border: 1px solid #CCCCCC;
+	border-radius: 15px;
+	box-shadow: 0 0 5px #CCCCCC;
+	background-color:#FFFFFF;
+	height: 240px;
+	overflow: hidden;
+
+}
+.cards a
+{
+	position: absolute;
+	left: 40%;
+	top: 40%;
+    font-family: "微软雅黑";
+	font-size: 38px;
+	font-weight: bold;
+	color: #343434;
+	text-decoration:none
+}
+
